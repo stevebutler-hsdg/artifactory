@@ -47,8 +47,8 @@ setup(
         'Topic :: Software Development :: Libraries',
         'Topic :: System :: Filesystems',
     ],
-    url='http://github.com/parallels/artifactory',
-    download_url='http://github.com/parallels/artifactory',
+    url='https://github.com/parallels/artifactory',
+    download_url='https://github.com/parallels/artifactory',
     install_requires=['pathlib', 'requests', 'python-dateutil'],
     zip_safe=False,
     package_data={'': ['README.md']}
